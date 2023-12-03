@@ -1,0 +1,2 @@
+# KMeans-Clustering-for-Online-Facebook-Sale
+Unveiling_the_Power_of_K_Means_Clustering_in_Python_Revolutionizing_Facebook_Live_Selling_in_Thailand_&amp;_ML!
